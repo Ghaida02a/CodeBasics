@@ -185,7 +185,7 @@ public class MiniBankSystem {
         }
     }
 
-    public static void saveToFile() {//save everything to text file
+    public static void saveToFile() { //save everything to text file
         try (BufferedWriter writer = new BufferedWriter(new FileWriter("allAccounts.txt"))) {
             for (Account account : accounts.values()) {
                 writer.write("===== Account Details =====");
