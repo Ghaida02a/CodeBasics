@@ -1,0 +1,8 @@
+===== Account Details =====
+Account Number: 1
+Holder Name: Ghaida
+Balance: OMR 200.0
+----- Transaction History -----
+2025-07-20 | Deposited OMR 250.0
+2025-07-20 | Withdrew OMR 50.0
+
